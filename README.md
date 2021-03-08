@@ -2,7 +2,7 @@
 This is my Bitdfender Homework
 
 This Project runs on the .NET 5.0 (Core) with C#.
-I chose this development framework so that these tests can be easly imported to Windows, Mac and Linux, in the idea that it offers flexibly should they be used in a pipeline.
+I chose this development framework so that these tests can be easily imported to Windows, Mac and Linux, in the idea that it offers flexibly should they be used in a pipeline.
 The NuGet Packages contain the drivers (chromedriver, firefox and IE) which are for Windows (eg: chromedriver.exe). These need to be replaced with their counterparts for other OS.
 
 On top of that I chose SpecFlow, a BDD framework and the test runner nUnit (JUnit equivalent from JAVA). The project also contains the MSTest package should it be needed.
